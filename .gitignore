@@ -1,1 +1,8 @@
 data/
+
+nlp_models/model0_geolocation
+nlp_models/model1_valid
+nlp_models/model2_subject
+nlp_models/model3_tone
+nlp_models/model4_negativeness
+nlp_models/model5_positiveness

@@ -1,0 +1,26 @@
+{
+    "id": "1E978B7F",
+    "path": "/cloud/project/change_in_mean.R",
+    "project_path": "change_in_mean.R",
+    "type": "r_source",
+    "hash": "136830996",
+    "contents": "",
+    "dirty": false,
+    "created": 1666724587631.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1667328335,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1667328335250,
+    "read_only": false,
+    "read_only_alternatives": []
+}

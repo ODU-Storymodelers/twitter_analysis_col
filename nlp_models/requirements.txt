@@ -1,0 +1,11 @@
+searchtweets-v2
+pandas
+scikit-learn
+numpy
+geopy
+time
+datetime
+warnings
+tweepy
+contexto
+alive_progress

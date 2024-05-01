@@ -1,0 +1,152 @@
+# Pettitt change-point for tweets frustrations by subject
+
+```{r}
+library(mcp)
+library(readxl)
+library(patchwork)
+library(EnvCpt)
+library(loo)
+set.seed(1234)
+xenophobia_results_subject <- read_excel("negative_tweets_counts_by_subject.xlsx", sheet = "R-cats-month")
+
+subjs <- c("geopolitics",	"government",	"migrants",	"migration")
+
+for (subj in subjs){
+ts = ts(xenophobia_results_subject[subj])
+plot(ts, xlab="Month", ylab="Negative tweets count")
+
+s.res <- pettitt.test(ts)
+n <- s.res$nobs
+i <- s.res$estimate
+s.1 <- mean(ts[1:i])
+s.2 <- mean(ts[(i+1):n])
+s <- ts(c(rep(s.1,i), rep(s.2,(n-i))))
+tsp(s) <- tsp(ts)
+lines(s, lty=2)
+title(main = paste0("Frequency of negative tweets - ",subj,"\n",
+                    "Change-Point Detection on month: ",xenophobia_results_subject$date[i]))
+}
+
+```
+
+# Pettitt change-point for Colombian news frustration (NVIVO and NLP predictions)
+
+```{r}
+frustration_col <- read_excel("negative_tweets+news_comparison.xlsx", sheet = "Colombia-original-ts")
+
+subjs <- colnames(frustration_col)[-1]
+
+for (subj in subjs){
+ts = ts(frustration_col[subj])
+plot(ts, xlab="Month", ylab="Frustration count")
+
+s.res <- pettitt.test(ts)
+n <- s.res$nobs
+i <- s.res$estimate
+s.1 <- mean(ts[1:i])
+s.2 <- mean(ts[(i+1):n])
+s <- ts(c(rep(s.1,i), rep(s.2,(n-i))))
+tsp(s) <- tsp(ts)
+lines(s, lty=2)
+title(main = paste0("Frequency of frustration categories - ","\nColombia - ",subj),
+      sub = paste0("Change-Point Detection on month: ",frustration_col$date[i]))
+}
+```
+
+# Pettitt change-point for Greek news frustration (NVIVO and NLP predictions)
+
+```{r}
+frustration_gre <- read_excel("negative_tweets+news_comparison.xlsx", sheet = "Greece-original-ts")
+
+subjs <- colnames(frustration_gre)[-1]
+
+for (subj in subjs){
+ts = ts(frustration_gre[subj])
+plot(ts, xlab="Month", ylab="Frustration count")
+
+s.res <- pettitt.test(ts)
+n <- s.res$nobs
+i <- s.res$estimate
+s.1 <- mean(ts[1:i])
+s.2 <- mean(ts[(i+1):n])
+s <- ts(c(rep(s.1,i), rep(s.2,(n-i))))
+tsp(s) <- tsp(ts)
+lines(s, lty=2)
+title(main = paste0("Frequency of frustration categories - ","\nGreece - ",subj),
+      sub = paste0("Change-Point Detection on month: ",frustration_col$date[i]))
+}
+```
+
+# Monte-Carlo change-point for Colombian news frustration (NVIVO and NLP predictions)
+
+```{r}
+library(mcp)
+library(readxl)
+library(patchwork)
+library(EnvCpt)
+library(loo)
+set.seed(1234)
+frustration_col <- read_excel("negative_tweets+news_comparison.xlsx", sheet = "Colombia-original-ts")
+frustration_col$date_n = 1:nrow(frustration_col)
+
+subjs <- colnames(frustration_col)#[2:6]
+
+for (subj in subjs[-1]){
+model2cp = list(Y~1, 1~1, 1~1)  
+frustration_col['Y'] = frustration_col[subj]
+fit2cp = mcp(model2cp, data = frustration_col, par_x = "date_n",)
+
+
+model0cp = list(Y~1) 
+model1cp = list(Y~1, 1~1)
+fit0cp = mcp(model0cp, data = frustration_col, par_x = "date_n")
+fit1cp = mcp(model1cp, data = frustration_col, par_x = "date_n")
+model_names = c("model1"="No Change-point", "model2"="1 Change-point", "model3"="2 Change-points")
+comparison = loo_compare(loo(fit0cp),loo(fit1cp),loo(fit2cp))
+row_names = list()
+for (i in rownames(comparison)){
+  row_names <- append(row_names, model_names[i])
+}
+rownames(comparison)= row_names
+
+print(paste("Comparison for :",subj))
+print("Colombia: 0, 1 and 2 change-points")
+print(comparison)
+}
+```
+
+# Monte-Carlo change-point for Greek news frustration (NVIVO and NLP predictions)
+```{r}
+library(mcp)
+library(readxl)
+library(patchwork)
+library(EnvCpt)
+library(loo)
+set.seed(1234)
+frustration_col <- read_excel("negative_tweets+news_comparison.xlsx", sheet = "Greece-original-ts")
+frustration_col$date_n = 1:nrow(frustration_col)
+
+subjs <- colnames(frustration_col)#[2:6]
+
+for (subj in subjs[-1]){
+model2cp = list(Y~1, 1~1, 1~1)  
+frustration_col['Y'] = frustration_col[subj]
+fit2cp = mcp(model2cp, data = frustration_col, par_x = "date_n",)
+
+
+model0cp = list(Y~1) 
+model1cp = list(Y~1, 1~1)
+fit0cp = mcp(model0cp, data = frustration_col, par_x = "date_n")
+fit1cp = mcp(model1cp, data = frustration_col, par_x = "date_n")
+model_names = c("model1"="No Change-point", "model2"="1 Change-point", "model3"="2 Change-points")
+comparison = loo_compare(loo(fit0cp),loo(fit1cp),loo(fit2cp))
+row_names = list()
+for (i in rownames(comparison)){
+  row_names <- append(row_names, model_names[i])
+}
+rownames(comparison)= row_names
+
+print(paste("Comparison for :",subj))
+print("Greece: 0, 1 and 2 change-points")
+print(comparison)
+}
