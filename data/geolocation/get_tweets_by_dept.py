@@ -31,7 +31,7 @@ for index, row in df_with_depts.iterrows():
 if include_text:
     print("Reading tweets with tone...")
     df_tweets = pd.read_csv(TWEETS_PATH)
-    df_tweets = df_tweets[['Id', 'text', 'tone']]
+    df_tweets = df_tweets[['Id', 'date', 'text', 'tone']]
     df_with_depts = pd.merge(df_with_depts, df_tweets, left_on='Id', right_on='Id', how='inner')
 
 
