@@ -1,4 +1,10 @@
-data/
+# Big data files
+data/geolocation/*.csv
+data/geolocation/*.html
+data/geolocation/*.json
+data/monthly_jsons_complete/
+data/monthly_pickles/
+data/texts/
 
 nlp_models/model0_geolocation
 nlp_models/model1_valid
@@ -6,3 +12,8 @@ nlp_models/model2_subject
 nlp_models/model3_tone
 nlp_models/model4_negativeness
 nlp_models/model5_positiveness
+
+# Virtual environments
+.venv/
+nlp_models/.env/
+nlp_models/__pycache__/
