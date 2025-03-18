@@ -17,3 +17,7 @@ nlp_models/model5_positiveness
 .venv/
 nlp_models/.env/
 nlp_models/__pycache__/
+
+
+# Other files
+*.DS_Store
