@@ -1,7 +1,8 @@
 import pandas as pd
-
+import json
 # Load mugging data
-df_mugging = pd.read_excel('./data/demographic/2_mugging_2018_Policia_Nacional.xlsx')
+file_paths = json.load(open('./data/demographic/file_paths.json')) # Path to datasets
+df_mugging = pd.read_excel(file_paths['mugging_data'])
 
 #Print departments
 print(df_mugging['DEPARTAMENTO'].unique())
@@ -81,3 +82,4 @@ print(df_mugging_by_department[['department', 'proportion_per_100000']])
 
 # Save to csv
 df_mugging_by_department.to_csv('./data/demographic/3_mugging_by_department.csv', index=False)
+

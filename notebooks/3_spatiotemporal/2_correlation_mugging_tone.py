@@ -10,24 +10,24 @@ df_tone = pd.read_csv('./notebooks/3_spatiotemporal/1_negative_tweets_per_depart
 df_mugging = pd.read_csv('./data/demographic/3_mugging_by_department.csv')
 
 # Merge tone and mugging data
-df_merged = pd.merge(df_tone, df_mugging, on='department', how='inner')
+df_merged = pd.merge(df_mugging, df_tone, on='department', how='inner')
 
 # Export merged data
 df_merged.to_csv('./notebooks/3_spatiotemporal/2_correlation_mugging_tone.csv', index=False)
 
 # Calculate correlation coefficient and p-value
-correlation, p_value = stats.pearsonr(df_merged['proportion'], df_merged['mugging'])
+correlation, p_value = stats.pearsonr(df_merged['mugging_per_100000'], df_merged['proportion'])
 
-print(f"Correlation between tone and mugging: {correlation}")
-print(f"P-value: {p_value}")
+print(f"Correlation between tone and mugging: {correlation:.3f}")
+print(f"P-value: {p_value:.3f}")
 
 # Interpret p-value
 alpha = 0.05
 if p_value < alpha:
-    print(f"\nThe p-value ({p_value:.4f}) is less than {alpha}, suggesting that")
+    print(f"\nThe p-value ({p_value:.3f}) is less than {alpha}, suggesting that")
     print("there is a statistically significant correlation between negative tweet")
     print("frequency and mugging incidents across departments.")
 else:
-    print(f"\nThe p-value ({p_value:.4f}) is greater than {alpha}, suggesting that")
+    print(f"\nThe p-value ({p_value:.3f}) is greater than {alpha}, suggesting that")
     print("there is not enough evidence to conclude a statistically significant")
     print("correlation between negative tweet frequency and mugging incidents.")
