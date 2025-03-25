@@ -1,0 +1,6 @@
+{
+    "population_by_department": "./data/demographic/1_population_by_department_2018_DANE.csv",
+    "mugging_data": "./data/demographic/2_mugging_2018_Policia_Nacional.xlsx",
+    "mugging_by_department": "./data/demographic/3_mugging_by_department.csv",
+    "unemployment_rate_by_department": "./data/demographic/4_unemployment_rate_by_department_2018_DANE.csv"
+}
