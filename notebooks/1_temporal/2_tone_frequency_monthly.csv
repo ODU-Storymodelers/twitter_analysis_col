@@ -1,4 +1,4 @@
-date, count_negative, count_neutral, count_positive
+month, count_negative, count_neutral, count_positive
 2014-01, 249, 229, 162
 2014-02, 767, 210, 265
 2014-03, 472, 218, 193
