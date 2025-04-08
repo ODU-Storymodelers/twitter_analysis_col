@@ -11,12 +11,18 @@ end_date = '2020-04-01'
 
 
 color_mapping = {
-    'positive': '#1e81a2',
-    'neutral': '#c4c4c4',
-    'negative': '#fa8b02',
-    'positive no RT': '#1e81a2',
-    'neutral no RT': '#c4c4c4',
-    'negative no RT': '#fa8b02'
+    'Positive': '#1e81a2',
+    'Neutral': '#c4c4c4',
+    'Negative': '#fa8b02',
+    'Positive without RT': '#1e81a2',
+    'Neutral without RT': '#c4c4c4',
+    'Negative without RT': '#fa8b02'
+}
+
+name_mapping = {
+    'negative': 'Negative',
+    'neutral': 'Neutral',
+    'positive': 'Positive'
 }
 
 all_departments = data.copy()
@@ -36,24 +42,26 @@ if not proportion:
         df_with_tone_sample = df_with_tone_sample.pivot_table(index=['year', 'month'], columns='tone', values='count').reset_index()
         df_with_tone_sample = df_with_tone_sample.fillna(0)
 
-        df_with_tone_sample['total'] = df_with_tone_sample['negative'] + df_with_tone_sample['neutral'] + df_with_tone_sample['positive']
+        df_with_tone_sample = df_with_tone_sample.rename(columns=name_mapping)
+        
+        df_with_tone_sample['Total'] = df_with_tone_sample['Negative'] + df_with_tone_sample['Neutral'] + df_with_tone_sample['Positive']
         # Standardize the data (1 is the maximum value)
-        max_value = df_with_tone_sample['negative'].max()
-        df_with_tone_sample['total'] = df_with_tone_sample['total']/max_value
-        df_with_tone_sample['negative'] = df_with_tone_sample['negative']/max_value
-        df_with_tone_sample['neutral'] = df_with_tone_sample['neutral']/max_value
-        df_with_tone_sample['positive'] = df_with_tone_sample['positive']/max_value
+        max_value = df_with_tone_sample['Negative'].max()
+        df_with_tone_sample['Total'] = df_with_tone_sample['Total']/max_value
+        df_with_tone_sample['Negative'] = df_with_tone_sample['Negative']/max_value
+        df_with_tone_sample['Neutral'] = df_with_tone_sample['Neutral']/max_value
+        df_with_tone_sample['Positive'] = df_with_tone_sample['Positive']/max_value
 
-        df_with_tone_sample = df_with_tone_sample.drop(columns=['total'])
+        df_with_tone_sample = df_with_tone_sample.drop(columns=['Total'])
         df_with_tone_sample = df_with_tone_sample.melt(id_vars=['year', 'month'], var_name='tone', value_name='count')
         df_with_tone_sample['month'] = df_with_tone_sample['month'].astype(str)
 
         plt.subplot(2, 3, i+1)
-        for tone in ['positive', 'neutral', 'negative']:
+        for tone in ['Positive', 'Neutral', 'Negative']:
             df_tone = df_with_tone_sample[df_with_tone_sample['tone'] == tone]
             plt.plot(df_tone['month'], df_tone['count'], label=tone, color=color_mapping[tone], alpha=0.7)
         plt.title(f'{department}')
-        plt.legend()
+        plt.legend(loc='upper left')
         plt.xticks(rotation=90)
         
         
@@ -71,28 +79,30 @@ if not proportion:
         df_with_tone_sample = df_with_tone_sample.pivot_table(index=['year', 'month'], columns='tone', values='count').reset_index()
         df_with_tone_sample = df_with_tone_sample.fillna(0)
 
-        df_with_tone_sample['negative no RT'] = df_with_tone_sample['negative']
-        df_with_tone_sample['neutral no RT'] = df_with_tone_sample['neutral']
-        df_with_tone_sample['positive no RT'] = df_with_tone_sample['positive']
-        
-        df_with_tone_sample['total no RT'] = df_with_tone_sample['negative no RT'] + df_with_tone_sample['neutral no RT'] + df_with_tone_sample['positive no RT']
-        # Standardize the data (1 is the maximum value)
-        max_value = df_with_tone_sample['negative no RT'].max()
-        df_with_tone_sample['total no RT'] = df_with_tone_sample['total no RT']/max_value
-        df_with_tone_sample['negative no RT'] = df_with_tone_sample['negative no RT']/max_value
-        df_with_tone_sample['neutral no RT'] = df_with_tone_sample['neutral no RT']/max_value
-        df_with_tone_sample['positive no RT'] = df_with_tone_sample['positive no RT']/max_value
+        df_with_tone_sample = df_with_tone_sample.rename(columns=name_mapping)
 
-        df_with_tone_sample = df_with_tone_sample.drop(columns=['total no RT','negative', 'neutral', 'positive'])
+        df_with_tone_sample['Negative without RT'] = df_with_tone_sample['Negative']
+        df_with_tone_sample['Neutral without RT'] = df_with_tone_sample['Neutral']
+        df_with_tone_sample['Positive without RT'] = df_with_tone_sample['Positive']
+        
+        df_with_tone_sample['Total without RT'] = df_with_tone_sample['Negative without RT'] + df_with_tone_sample['Neutral without RT'] + df_with_tone_sample['Positive without RT']
+        # Standardize the data (1 is the maximum value)
+        max_value = df_with_tone_sample['Negative without RT'].max()
+        df_with_tone_sample['Total without RT'] = df_with_tone_sample['Total without RT']/max_value
+        df_with_tone_sample['Negative without RT'] = df_with_tone_sample['Negative without RT']/max_value
+        df_with_tone_sample['Neutral without RT'] = df_with_tone_sample['Neutral without RT']/max_value
+        df_with_tone_sample['Positive without RT'] = df_with_tone_sample['Positive without RT']/max_value
+
+        df_with_tone_sample = df_with_tone_sample.drop(columns=['Total without RT','Negative', 'Neutral', 'Positive'])
         df_with_tone_sample = df_with_tone_sample.melt(id_vars=['year', 'month'], var_name='tone', value_name='count')
         df_with_tone_sample['month'] = df_with_tone_sample['month'].astype(str)
 
         plt.subplot(2, 3, i+1)
-        for tone in ['positive no RT', 'neutral no RT', 'negative no RT']:
+        for tone in ['Positive without RT', 'Neutral without RT', 'Negative without RT']:
             df_tone = df_with_tone_sample[df_with_tone_sample['tone'] == tone]
             plt.plot(df_tone['month'], df_tone['count'], label=tone, color=color_mapping[tone], alpha=0.5, linestyle='dotted')
         plt.title(f'{department}')
-        plt.legend()
+        plt.legend(loc='upper left')
         plt.xticks(rotation=90)
 
 # Save the plot to svg
