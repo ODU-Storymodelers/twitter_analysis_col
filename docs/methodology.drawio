@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="wULaLUWAllJN972GKIQw">
     <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -225,13 +225,13 @@
         <mxCell id="MxnO8PeU6FXhInc9yJVo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=default;shadow=0;backgroundOutline=0;metaEdit=0;movable=1;enumerate=0;comic=0;fontFamily=Helvetica;arcSize=4;fillOpacity=100;" edge="1" parent="MxnO8PeU6FXhInc9yJVo-14" source="MxnO8PeU6FXhInc9yJVo-9" target="MxnO8PeU6FXhInc9yJVo-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MxnO8PeU6FXhInc9yJVo-15" value="Tone and topic categorization" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;gradientColor=none;glass=0;swimlaneLine=1;rounded=1;arcSize=0;fillOpacity=100;backgroundOutline=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="MxnO8PeU6FXhInc9yJVo-15" value="Tone categorization" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;gradientColor=none;glass=0;swimlaneLine=1;rounded=1;arcSize=0;fillOpacity=100;backgroundOutline=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="950" width="175" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MxnO8PeU6FXhInc9yJVo-16" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Manual annotation of derogatory terms&#39; tone&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fixDash=0;shadow=0;backgroundOutline=0;metaEdit=0;movable=1;enumerate=0;comic=0;arcSize=4;fillOpacity=100;" vertex="1" parent="MxnO8PeU6FXhInc9yJVo-15">
           <mxGeometry x="25" y="110" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MxnO8PeU6FXhInc9yJVo-13" value="&lt;div&gt;Semi-supervised labeling of tone and topic&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fixDash=0;shadow=0;backgroundOutline=0;metaEdit=0;movable=1;enumerate=0;comic=0;arcSize=4;fillOpacity=100;" vertex="1" parent="MxnO8PeU6FXhInc9yJVo-15">
+        <mxCell id="MxnO8PeU6FXhInc9yJVo-13" value="&lt;div&gt;Semi-supervised labeling of tone&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fixDash=0;shadow=0;backgroundOutline=0;metaEdit=0;movable=1;enumerate=0;comic=0;arcSize=4;fillOpacity=100;" vertex="1" parent="MxnO8PeU6FXhInc9yJVo-15">
           <mxGeometry x="25" y="40" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MxnO8PeU6FXhInc9yJVo-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;arcSize=4;fillOpacity=100;backgroundOutline=0;shadow=0;" edge="1" parent="1" source="MxnO8PeU6FXhInc9yJVo-11" target="MxnO8PeU6FXhInc9yJVo-16">
@@ -248,6 +248,66 @@
         </mxCell>
         <mxCell id="MxnO8PeU6FXhInc9yJVo-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Helvetica;arcSize=4;fillOpacity=100;backgroundOutline=0;shadow=0;" edge="1" parent="1" source="MxnO8PeU6FXhInc9yJVo-16" target="MxnO8PeU6FXhInc9yJVo-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-2" value="-3" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="980" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-3" value="-2" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="800" y="980" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-4" value="-1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="910" y="980" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-5" value="0" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="980" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-6" value="3" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="980" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-7" value="2" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="980" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-8" value="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="980" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-10" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Opinions agains the subject or adjectives to describe them; expressed with xenophobic, insulting, or derogative words.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1040" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-11" value="No opinion expressed" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1040" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-12" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Opinions in favor of the subject or adjectives to describe them; expressed with open-minded, benefical, or supportive words.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1040" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-13" value="destructive and/or xenophobic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1000" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-14" value="harmful and/or pessimistic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1000" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-15" value="opposing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1000" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-16" value="unbiased" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1000" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-17" value="constructive and/or anti-xenophobic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1000" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-18" value="benefical and/or affirmative" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1000" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-19" value="in favor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1000" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-20" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Negative&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="690" y="950" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-21" value="Neutral" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="950" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VS-vN0vuYCOFzd1SXQUD-22" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Positive&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="950" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
