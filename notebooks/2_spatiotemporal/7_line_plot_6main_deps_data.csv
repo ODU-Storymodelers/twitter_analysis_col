@@ -1,0 +1,1009 @@
+month,tone,frequency,department
+2018-01,Negative,0.10545023696682465,Antioquia
+2018-01,Neutral,0.058056872037914695,Antioquia
+2018-01,Positive,0.045023696682464455,Antioquia
+2018-01,Negative without reposts,0.17956656346749225,Antioquia
+2018-01,Neutral without reposts,0.06811145510835913,Antioquia
+2018-01,Positive without reposts,0.04643962848297214,Antioquia
+2018-02,Negative,0.2950236966824645,Antioquia
+2018-02,Neutral,0.1872037914691943,Antioquia
+2018-02,Positive,0.07109004739336493,Antioquia
+2018-02,Negative without reposts,0.28792569659442724,Antioquia
+2018-02,Neutral without reposts,0.14241486068111456,Antioquia
+2018-02,Positive without reposts,0.07430340557275542,Antioquia
+2018-03,Negative,0.17535545023696683,Antioquia
+2018-03,Neutral,0.061611374407582936,Antioquia
+2018-03,Positive,0.05568720379146919,Antioquia
+2018-03,Negative without reposts,0.33746130030959753,Antioquia
+2018-03,Neutral without reposts,0.11764705882352941,Antioquia
+2018-03,Positive without reposts,0.07430340557275542,Antioquia
+2018-04,Negative,0.14454976303317535,Antioquia
+2018-04,Neutral,0.19549763033175355,Antioquia
+2018-04,Positive,0.06990521327014218,Antioquia
+2018-04,Negative without reposts,0.14241486068111456,Antioquia
+2018-04,Neutral without reposts,0.17337461300309598,Antioquia
+2018-04,Positive without reposts,0.0804953560371517,Antioquia
+2018-05,Negative,0.12440758293838862,Antioquia
+2018-05,Neutral,0.08412322274881516,Antioquia
+2018-05,Positive,0.07819905213270142,Antioquia
+2018-05,Negative without reposts,0.21052631578947367,Antioquia
+2018-05,Neutral without reposts,0.10526315789473684,Antioquia
+2018-05,Positive without reposts,0.07430340557275542,Antioquia
+2018-06,Negative,0.07582938388625593,Antioquia
+2018-06,Neutral,0.08175355450236967,Antioquia
+2018-06,Positive,0.03317535545023697,Antioquia
+2018-06,Negative without reposts,0.1393188854489164,Antioquia
+2018-06,Neutral without reposts,0.08668730650154799,Antioquia
+2018-06,Positive without reposts,0.030959752321981424,Antioquia
+2018-07,Negative,0.06635071090047394,Antioquia
+2018-07,Neutral,0.07109004739336493,Antioquia
+2018-07,Positive,0.052132701421800945,Antioquia
+2018-07,Negative without reposts,0.10526315789473684,Antioquia
+2018-07,Neutral without reposts,0.08978328173374613,Antioquia
+2018-07,Positive without reposts,0.05572755417956656,Antioquia
+2018-08,Negative,0.26895734597156395,Antioquia
+2018-08,Neutral,0.12322274881516587,Antioquia
+2018-08,Positive,0.08767772511848342,Antioquia
+2018-08,Negative without reposts,0.23219814241486067,Antioquia
+2018-08,Neutral without reposts,0.14860681114551083,Antioquia
+2018-08,Positive without reposts,0.08668730650154799,Antioquia
+2018-09,Negative,0.17654028436018956,Antioquia
+2018-09,Neutral,0.5059241706161137,Antioquia
+2018-09,Positive,0.18009478672985782,Antioquia
+2018-09,Negative without reposts,0.28792569659442724,Antioquia
+2018-09,Neutral without reposts,0.25386996904024767,Antioquia
+2018-09,Positive without reposts,0.15170278637770898,Antioquia
+2018-10,Negative,0.2109004739336493,Antioquia
+2018-10,Neutral,0.24644549763033174,Antioquia
+2018-10,Positive,0.14454976303317535,Antioquia
+2018-10,Negative without reposts,0.2755417956656347,Antioquia
+2018-10,Neutral without reposts,0.19195046439628483,Antioquia
+2018-10,Positive without reposts,0.11764705882352941,Antioquia
+2018-11,Negative,0.27014218009478674,Antioquia
+2018-11,Neutral,0.3696682464454976,Antioquia
+2018-11,Positive,0.13270142180094788,Antioquia
+2018-11,Negative without reposts,0.30959752321981426,Antioquia
+2018-11,Neutral without reposts,0.16718266253869968,Antioquia
+2018-11,Positive without reposts,0.1238390092879257,Antioquia
+2018-12,Negative,0.33175355450236965,Antioquia
+2018-12,Neutral,0.22393364928909953,Antioquia
+2018-12,Positive,0.14336492890995262,Antioquia
+2018-12,Negative without reposts,0.3653250773993808,Antioquia
+2018-12,Neutral without reposts,0.13003095975232198,Antioquia
+2018-12,Positive without reposts,0.14241486068111456,Antioquia
+2019-01,Negative,0.2381516587677725,Antioquia
+2019-01,Neutral,0.09597156398104266,Antioquia
+2019-01,Positive,0.11492890995260663,Antioquia
+2019-01,Negative without reposts,0.39009287925696595,Antioquia
+2019-01,Neutral without reposts,0.11145510835913312,Antioquia
+2019-01,Positive without reposts,0.09597523219814241,Antioquia
+2019-02,Negative,0.4004739336492891,Antioquia
+2019-02,Neutral,0.4146919431279621,Antioquia
+2019-02,Positive,0.25,Antioquia
+2019-02,Negative without reposts,0.42724458204334365,Antioquia
+2019-02,Neutral without reposts,0.21671826625386997,Antioquia
+2019-02,Positive without reposts,0.21362229102167182,Antioquia
+2019-03,Negative,0.3305687203791469,Antioquia
+2019-03,Neutral,0.273696682464455,Antioquia
+2019-03,Positive,0.11137440758293839,Antioquia
+2019-03,Negative without reposts,0.32507739938080493,Antioquia
+2019-03,Neutral without reposts,0.14860681114551083,Antioquia
+2019-03,Positive without reposts,0.11764705882352941,Antioquia
+2019-04,Negative,0.21208530805687204,Antioquia
+2019-04,Neutral,0.6113744075829384,Antioquia
+2019-04,Positive,0.1338862559241706,Antioquia
+2019-04,Negative without reposts,0.3188854489164087,Antioquia
+2019-04,Neutral without reposts,0.17337461300309598,Antioquia
+2019-04,Positive without reposts,0.07120743034055728,Antioquia
+2019-05,Negative,0.3815165876777251,Antioquia
+2019-05,Neutral,0.6516587677725119,Antioquia
+2019-05,Positive,0.22985781990521326,Antioquia
+2019-05,Negative without reposts,0.4148606811145511,Antioquia
+2019-05,Neutral without reposts,0.18575851393188855,Antioquia
+2019-05,Positive without reposts,0.16408668730650156,Antioquia
+2019-06,Negative,0.24407582938388625,Antioquia
+2019-06,Neutral,0.22867298578199052,Antioquia
+2019-06,Positive,0.14336492890995262,Antioquia
+2019-06,Negative without reposts,0.4055727554179567,Antioquia
+2019-06,Neutral without reposts,0.21671826625386997,Antioquia
+2019-06,Positive without reposts,0.20123839009287925,Antioquia
+2019-07,Negative,0.1481042654028436,Antioquia
+2019-07,Neutral,0.19194312796208532,Antioquia
+2019-07,Positive,0.08175355450236967,Antioquia
+2019-07,Negative without reposts,0.2848297213622291,Antioquia
+2019-07,Neutral without reposts,0.15789473684210525,Antioquia
+2019-07,Positive without reposts,0.10835913312693499,Antioquia
+2019-08,Negative,0.20734597156398105,Antioquia
+2019-08,Neutral,0.1504739336492891,Antioquia
+2019-08,Positive,0.1646919431279621,Antioquia
+2019-08,Negative without reposts,0.33126934984520123,Antioquia
+2019-08,Neutral without reposts,0.14551083591331268,Antioquia
+2019-08,Positive without reposts,0.17337461300309598,Antioquia
+2019-09,Negative,0.26895734597156395,Antioquia
+2019-09,Neutral,0.1670616113744076,Antioquia
+2019-09,Positive,0.11611374407582939,Antioquia
+2019-09,Negative without reposts,0.43034055727554177,Antioquia
+2019-09,Neutral without reposts,0.18575851393188855,Antioquia
+2019-09,Positive without reposts,0.13003095975232198,Antioquia
+2019-10,Negative,0.1646919431279621,Antioquia
+2019-10,Neutral,0.13744075829383887,Antioquia
+2019-10,Positive,0.09834123222748815,Antioquia
+2019-10,Negative without reposts,0.33436532507739936,Antioquia
+2019-10,Neutral without reposts,0.13003095975232198,Antioquia
+2019-10,Positive without reposts,0.09287925696594428,Antioquia
+2019-11,Negative,1.0,Antioquia
+2019-11,Neutral,0.16824644549763032,Antioquia
+2019-11,Positive,0.12440758293838862,Antioquia
+2019-11,Negative without reposts,1.0,Antioquia
+2019-11,Neutral without reposts,0.2693498452012384,Antioquia
+2019-11,Positive without reposts,0.2043343653250774,Antioquia
+2019-12,Negative,0.2109004739336493,Antioquia
+2019-12,Neutral,0.13033175355450238,Antioquia
+2019-12,Positive,0.11848341232227488,Antioquia
+2019-12,Negative without reposts,0.34055727554179566,Antioquia
+2019-12,Neutral without reposts,0.16718266253869968,Antioquia
+2019-12,Positive without reposts,0.08668730650154799,Antioquia
+2020-01,Negative,0.2523696682464455,Antioquia
+2020-01,Neutral,0.17180094786729858,Antioquia
+2020-01,Positive,0.09004739336492891,Antioquia
+2020-01,Negative without reposts,0.4055727554179567,Antioquia
+2020-01,Neutral without reposts,0.18575851393188855,Antioquia
+2020-01,Positive without reposts,0.14860681114551083,Antioquia
+2020-02,Negative,0.24644549763033174,Antioquia
+2020-02,Neutral,0.11492890995260663,Antioquia
+2020-02,Positive,0.0924170616113744,Antioquia
+2020-02,Negative without reposts,0.38699690402476783,Antioquia
+2020-02,Neutral without reposts,0.16408668730650156,Antioquia
+2020-02,Positive without reposts,0.13312693498452013,Antioquia
+2020-03,Negative,0.5035545023696683,Antioquia
+2020-03,Neutral,0.10426540284360189,Antioquia
+2020-03,Positive,0.06990521327014218,Antioquia
+2020-03,Negative without reposts,0.7554179566563467,Antioquia
+2020-03,Neutral without reposts,0.10835913312693499,Antioquia
+2020-03,Positive without reposts,0.11455108359133127,Antioquia
+2020-04,Negative,0.6966824644549763,Antioquia
+2020-04,Neutral,0.4372037914691943,Antioquia
+2020-04,Positive,0.38981042654028436,Antioquia
+2020-04,Negative without reposts,0.7647058823529411,Antioquia
+2020-04,Neutral without reposts,0.29721362229102166,Antioquia
+2020-04,Positive without reposts,0.30030959752321984,Antioquia
+2018-01,Negative,0.3103448275862069,Atlántico
+2018-01,Neutral,0.09717868338557993,Atlántico
+2018-01,Positive,0.09404388714733543,Atlántico
+2018-01,Negative without reposts,0.39444444444444443,Atlántico
+2018-01,Neutral without reposts,0.12777777777777777,Atlántico
+2018-01,Positive without reposts,0.08333333333333333,Atlántico
+2018-02,Negative,0.6520376175548589,Atlántico
+2018-02,Neutral,0.38557993730407525,Atlántico
+2018-02,Positive,0.15987460815047022,Atlántico
+2018-02,Negative without reposts,0.8222222222222222,Atlántico
+2018-02,Neutral without reposts,0.37222222222222223,Atlántico
+2018-02,Positive without reposts,0.17222222222222222,Atlántico
+2018-03,Negative,0.7084639498432602,Atlántico
+2018-03,Neutral,0.2445141065830721,Atlántico
+2018-03,Positive,0.21316614420062696,Atlántico
+2018-03,Negative without reposts,0.8944444444444445,Atlántico
+2018-03,Neutral without reposts,0.3,Atlántico
+2018-03,Positive without reposts,0.24444444444444444,Atlántico
+2018-04,Negative,0.438871473354232,Atlántico
+2018-04,Neutral,0.4890282131661442,Atlántico
+2018-04,Positive,0.1974921630094044,Atlántico
+2018-04,Negative without reposts,0.5444444444444444,Atlántico
+2018-04,Neutral without reposts,0.4166666666666667,Atlántico
+2018-04,Positive without reposts,0.21666666666666667,Atlántico
+2018-05,Negative,0.41379310344827586,Atlántico
+2018-05,Neutral,0.3887147335423197,Atlántico
+2018-05,Positive,0.2507836990595611,Atlántico
+2018-05,Negative without reposts,0.5444444444444444,Atlántico
+2018-05,Neutral without reposts,0.3111111111111111,Atlántico
+2018-05,Positive without reposts,0.14444444444444443,Atlántico
+2018-06,Negative,0.335423197492163,Atlántico
+2018-06,Neutral,0.31347962382445144,Atlántico
+2018-06,Positive,0.18808777429467086,Atlántico
+2018-06,Negative without reposts,0.4722222222222222,Atlántico
+2018-06,Neutral without reposts,0.32222222222222224,Atlántico
+2018-06,Positive without reposts,0.2111111111111111,Atlántico
+2018-07,Negative,0.42946708463949845,Atlántico
+2018-07,Neutral,0.30094043887147337,Atlántico
+2018-07,Positive,0.10344827586206896,Atlántico
+2018-07,Negative without reposts,0.49444444444444446,Atlántico
+2018-07,Neutral without reposts,0.18333333333333332,Atlántico
+2018-07,Positive without reposts,0.16111111111111112,Atlántico
+2018-08,Negative,0.36363636363636365,Atlántico
+2018-08,Neutral,0.25705329153605017,Atlántico
+2018-08,Positive,0.22884012539184953,Atlántico
+2018-08,Negative without reposts,0.4222222222222222,Atlántico
+2018-08,Neutral without reposts,0.2388888888888889,Atlántico
+2018-08,Positive without reposts,0.17777777777777778,Atlántico
+2018-09,Negative,0.54858934169279,Atlántico
+2018-09,Neutral,0.5799373040752351,Atlántico
+2018-09,Positive,0.219435736677116,Atlántico
+2018-09,Negative without reposts,0.6722222222222223,Atlántico
+2018-09,Neutral without reposts,0.32222222222222224,Atlántico
+2018-09,Positive without reposts,0.17777777777777778,Atlántico
+2018-10,Negative,0.4106583072100313,Atlántico
+2018-10,Neutral,0.4702194357366771,Atlántico
+2018-10,Positive,0.23824451410658307,Atlántico
+2018-10,Negative without reposts,0.5055555555555555,Atlántico
+2018-10,Neutral without reposts,0.32222222222222224,Atlántico
+2018-10,Positive without reposts,0.17222222222222222,Atlántico
+2018-11,Negative,0.39184952978056425,Atlántico
+2018-11,Neutral,0.45141065830721006,Atlántico
+2018-11,Positive,0.22884012539184953,Atlántico
+2018-11,Negative without reposts,0.42777777777777776,Atlántico
+2018-11,Neutral without reposts,0.31666666666666665,Atlántico
+2018-11,Positive without reposts,0.23333333333333334,Atlántico
+2018-12,Negative,0.438871473354232,Atlántico
+2018-12,Neutral,0.329153605015674,Atlántico
+2018-12,Positive,0.2225705329153605,Atlántico
+2018-12,Negative without reposts,0.46111111111111114,Atlántico
+2018-12,Neutral without reposts,0.2388888888888889,Atlántico
+2018-12,Positive without reposts,0.22777777777777777,Atlántico
+2019-01,Negative,0.4608150470219436,Atlántico
+2019-01,Neutral,0.1786833855799373,Atlántico
+2019-01,Positive,0.1755485893416928,Atlántico
+2019-01,Negative without reposts,0.55,Atlántico
+2019-01,Neutral without reposts,0.19444444444444445,Atlántico
+2019-01,Positive without reposts,0.17777777777777778,Atlántico
+2019-02,Negative,0.6394984326018809,Atlántico
+2019-02,Neutral,0.6739811912225705,Atlántico
+2019-02,Positive,0.42946708463949845,Atlántico
+2019-02,Negative without reposts,0.7166666666666667,Atlántico
+2019-02,Neutral without reposts,0.3111111111111111,Atlántico
+2019-02,Positive without reposts,0.28888888888888886,Atlántico
+2019-03,Negative,0.3887147335423197,Atlántico
+2019-03,Neutral,0.26959247648902823,Atlántico
+2019-03,Positive,0.13166144200626959,Atlántico
+2019-03,Negative without reposts,0.31666666666666665,Atlántico
+2019-03,Neutral without reposts,0.19444444444444445,Atlántico
+2019-03,Positive without reposts,0.15555555555555556,Atlántico
+2019-04,Negative,0.3730407523510972,Atlántico
+2019-04,Neutral,0.567398119122257,Atlántico
+2019-04,Positive,0.21630094043887146,Atlántico
+2019-04,Negative without reposts,0.48333333333333334,Atlántico
+2019-04,Neutral without reposts,0.2222222222222222,Atlántico
+2019-04,Positive without reposts,0.15555555555555556,Atlántico
+2019-05,Negative,0.5360501567398119,Atlántico
+2019-05,Neutral,1.0125391849529781,Atlántico
+2019-05,Positive,0.329153605015674,Atlántico
+2019-05,Negative without reposts,0.5666666666666667,Atlántico
+2019-05,Neutral without reposts,0.43333333333333335,Atlántico
+2019-05,Positive without reposts,0.2388888888888889,Atlántico
+2019-06,Negative,0.45768025078369906,Atlántico
+2019-06,Neutral,0.47962382445141066,Atlántico
+2019-06,Positive,0.28213166144200624,Atlántico
+2019-06,Negative without reposts,0.5944444444444444,Atlántico
+2019-06,Neutral without reposts,0.36666666666666664,Atlántico
+2019-06,Positive without reposts,0.24444444444444444,Atlántico
+2019-07,Negative,0.2727272727272727,Atlántico
+2019-07,Neutral,0.3103448275862069,Atlántico
+2019-07,Positive,0.15047021943573669,Atlántico
+2019-07,Negative without reposts,0.40555555555555556,Atlántico
+2019-07,Neutral without reposts,0.23333333333333334,Atlántico
+2019-07,Positive without reposts,0.15555555555555556,Atlántico
+2019-08,Negative,0.8495297805642633,Atlántico
+2019-08,Neutral,0.48589341692789967,Atlántico
+2019-08,Positive,0.29153605015673983,Atlántico
+2019-08,Negative without reposts,1.0,Atlántico
+2019-08,Neutral without reposts,0.38333333333333336,Atlántico
+2019-08,Positive without reposts,0.24444444444444444,Atlántico
+2019-09,Negative,0.5454545454545454,Atlántico
+2019-09,Neutral,0.3605015673981191,Atlántico
+2019-09,Positive,0.25705329153605017,Atlántico
+2019-09,Negative without reposts,0.7555555555555555,Atlántico
+2019-09,Neutral without reposts,0.35,Atlántico
+2019-09,Positive without reposts,0.2611111111111111,Atlántico
+2019-10,Negative,0.3667711598746082,Atlántico
+2019-10,Neutral,0.30094043887147337,Atlántico
+2019-10,Positive,0.16300940438871472,Atlántico
+2019-10,Negative without reposts,0.5666666666666667,Atlántico
+2019-10,Neutral without reposts,0.3055555555555556,Atlántico
+2019-10,Positive without reposts,0.2,Atlántico
+2019-11,Negative,1.0,Atlántico
+2019-11,Neutral,0.2413793103448276,Atlántico
+2019-11,Positive,0.20376175548589343,Atlántico
+2019-11,Negative without reposts,0.8111111111111111,Atlántico
+2019-11,Neutral without reposts,0.3111111111111111,Atlántico
+2019-11,Positive without reposts,0.25555555555555554,Atlántico
+2019-12,Negative,0.335423197492163,Atlántico
+2019-12,Neutral,0.1724137931034483,Atlántico
+2019-12,Positive,0.14733542319749215,Atlántico
+2019-12,Negative without reposts,0.4222222222222222,Atlántico
+2019-12,Neutral without reposts,0.16666666666666666,Atlántico
+2019-12,Positive without reposts,0.11666666666666667,Atlántico
+2020-01,Negative,0.4106583072100313,Atlántico
+2020-01,Neutral,0.21630094043887146,Atlántico
+2020-01,Positive,0.14420062695924765,Atlántico
+2020-01,Negative without reposts,0.5111111111111111,Atlántico
+2020-01,Neutral without reposts,0.19444444444444445,Atlántico
+2020-01,Positive without reposts,0.13333333333333333,Atlántico
+2020-02,Negative,0.46394984326018807,Atlántico
+2020-02,Neutral,0.16614420062695925,Atlántico
+2020-02,Positive,0.13793103448275862,Atlántico
+2020-02,Negative without reposts,0.4888888888888889,Atlántico
+2020-02,Neutral without reposts,0.18888888888888888,Atlántico
+2020-02,Positive without reposts,0.17777777777777778,Atlántico
+2020-03,Negative,0.6175548589341693,Atlántico
+2020-03,Neutral,0.11912225705329153,Atlántico
+2020-03,Positive,0.12539184952978055,Atlántico
+2020-03,Negative without reposts,0.6833333333333333,Atlántico
+2020-03,Neutral without reposts,0.08888888888888889,Atlántico
+2020-03,Positive without reposts,0.17777777777777778,Atlántico
+2020-04,Negative,0.6833855799373041,Atlántico
+2020-04,Neutral,0.664576802507837,Atlántico
+2020-04,Positive,0.36990595611285265,Atlántico
+2020-04,Negative without reposts,0.6222222222222222,Atlántico
+2020-04,Neutral without reposts,0.4222222222222222,Atlántico
+2020-04,Positive without reposts,0.28888888888888886,Atlántico
+2018-01,Negative,0.04894117647058824,Bogotá Distrito Capital
+2018-01,Neutral,0.028862745098039214,Bogotá Distrito Capital
+2018-01,Positive,0.02666666666666667,Bogotá Distrito Capital
+2018-01,Negative without reposts,0.07271391847227322,Bogotá Distrito Capital
+2018-01,Neutral without reposts,0.04149834741094381,Bogotá Distrito Capital
+2018-01,Positive without reposts,0.0297466030113845,Bogotá Distrito Capital
+2018-02,Negative,0.12784313725490196,Bogotá Distrito Capital
+2018-02,Neutral,0.10792156862745098,Bogotá Distrito Capital
+2018-02,Positive,0.058980392156862745,Bogotá Distrito Capital
+2018-02,Negative without reposts,0.1538744032317297,Bogotá Distrito Capital
+2018-02,Neutral without reposts,0.11421226588321703,Bogotá Distrito Capital
+2018-02,Positive without reposts,0.07014322438486963,Bogotá Distrito Capital
+2018-03,Negative,0.08862745098039215,Bogotá Distrito Capital
+2018-03,Neutral,0.0487843137254902,Bogotá Distrito Capital
+2018-03,Positive,0.03152941176470588,Bogotá Distrito Capital
+2018-03,Negative without reposts,0.14542783694454645,Bogotá Distrito Capital
+2018-03,Neutral without reposts,0.07124495042232831,Bogotá Distrito Capital
+2018-03,Positive without reposts,0.05104663973558575,Bogotá Distrito Capital
+2018-04,Negative,0.07733333333333334,Bogotá Distrito Capital
+2018-04,Neutral,0.08172549019607843,Bogotá Distrito Capital
+2018-04,Positive,0.04062745098039216,Bogotá Distrito Capital
+2018-04,Negative without reposts,0.11678295997062065,Bogotá Distrito Capital
+2018-04,Neutral without reposts,0.07858979067205288,Bogotá Distrito Capital
+2018-04,Positive without reposts,0.04406904149834741,Bogotá Distrito Capital
+2018-05,Negative,0.07686274509803921,Bogotá Distrito Capital
+2018-05,Neutral,0.06070588235294118,Bogotá Distrito Capital
+2018-05,Positive,0.04376470588235294,Bogotá Distrito Capital
+2018-05,Negative without reposts,0.11421226588321703,Bogotá Distrito Capital
+2018-05,Neutral without reposts,0.07124495042232831,Bogotá Distrito Capital
+2018-05,Positive without reposts,0.05104663973558575,Bogotá Distrito Capital
+2018-06,Negative,0.06086274509803922,Bogotá Distrito Capital
+2018-06,Neutral,0.05788235294117647,Bogotá Distrito Capital
+2018-06,Positive,0.029333333333333333,Bogotá Distrito Capital
+2018-06,Negative without reposts,0.1123760558207859,Bogotá Distrito Capital
+2018-06,Neutral without reposts,0.05582078589790672,Bogotá Distrito Capital
+2018-06,Positive without reposts,0.0426000734484025,Bogotá Distrito Capital
+2018-07,Negative,0.05662745098039216,Bogotá Distrito Capital
+2018-07,Neutral,0.04596078431372549,Bogotá Distrito Capital
+2018-07,Positive,0.034980392156862744,Bogotá Distrito Capital
+2018-07,Negative without reposts,0.07932427469702534,Bogotá Distrito Capital
+2018-07,Neutral without reposts,0.04847594564818215,Bogotá Distrito Capital
+2018-07,Positive without reposts,0.034153507161219246,Bogotá Distrito Capital
+2018-08,Negative,0.11623529411764706,Bogotá Distrito Capital
+2018-08,Neutral,0.08956862745098039,Bogotá Distrito Capital
+2018-08,Positive,0.06682352941176471,Bogotá Distrito Capital
+2018-08,Negative without reposts,0.15203819316929856,Bogotá Distrito Capital
+2018-08,Neutral without reposts,0.09107601909658465,Bogotá Distrito Capital
+2018-08,Positive without reposts,0.06353286816011752,Bogotá Distrito Capital
+2018-09,Negative,0.12909803921568627,Bogotá Distrito Capital
+2018-09,Neutral,0.20376470588235293,Bogotá Distrito Capital
+2018-09,Positive,0.09788235294117648,Bogotá Distrito Capital
+2018-09,Negative without reposts,0.14910025706940874,Bogotá Distrito Capital
+2018-09,Neutral without reposts,0.12743297833272127,Bogotá Distrito Capital
+2018-09,Positive without reposts,0.09878810135879544,Bogotá Distrito Capital
+2018-10,Negative,0.10807843137254902,Bogotá Distrito Capital
+2018-10,Neutral,0.1396078431372549,Bogotá Distrito Capital
+2018-10,Positive,0.08015686274509803,Bogotá Distrito Capital
+2018-10,Negative without reposts,0.1564450973191333,Bogotá Distrito Capital
+2018-10,Neutral without reposts,0.10870363569592362,Bogotá Distrito Capital
+2018-10,Positive without reposts,0.08887256702166728,Bogotá Distrito Capital
+2018-11,Negative,0.1595294117647059,Bogotá Distrito Capital
+2018-11,Neutral,0.19654901960784313,Bogotá Distrito Capital
+2018-11,Positive,0.10980392156862745,Bogotá Distrito Capital
+2018-11,Negative without reposts,0.18876239441792142,Bogotá Distrito Capital
+2018-11,Neutral without reposts,0.1395519647447668,Bogotá Distrito Capital
+2018-11,Positive without reposts,0.11053984575835475,Bogotá Distrito Capital
+2018-12,Negative,0.13647058823529412,Bogotá Distrito Capital
+2018-12,Neutral,0.1367843137254902,Bogotá Distrito Capital
+2018-12,Positive,0.08627450980392157,Bogotá Distrito Capital
+2018-12,Negative without reposts,0.13991920675725303,Bogotá Distrito Capital
+2018-12,Neutral without reposts,0.09658464928387808,Bogotá Distrito Capital
+2018-12,Positive without reposts,0.08630187293426368,Bogotá Distrito Capital
+2019-01,Negative,0.14258823529411765,Bogotá Distrito Capital
+2019-01,Neutral,0.06807843137254901,Bogotá Distrito Capital
+2019-01,Positive,0.06870588235294117,Bogotá Distrito Capital
+2019-01,Negative without reposts,0.2067572530297466,Bogotá Distrito Capital
+2019-01,Neutral without reposts,0.09070877708409843,Bogotá Distrito Capital
+2019-01,Positive without reposts,0.07858979067205288,Bogotá Distrito Capital
+2019-02,Negative,0.21443137254901962,Bogotá Distrito Capital
+2019-02,Neutral,0.24533333333333332,Bogotá Distrito Capital
+2019-02,Positive,0.13819607843137255,Bogotá Distrito Capital
+2019-02,Negative without reposts,0.2625780389276533,Bogotá Distrito Capital
+2019-02,Neutral without reposts,0.12890194638266617,Bogotá Distrito Capital
+2019-02,Positive without reposts,0.12045538009548293,Bogotá Distrito Capital
+2019-03,Negative,0.15262745098039215,Bogotá Distrito Capital
+2019-03,Neutral,0.11592156862745098,Bogotá Distrito Capital
+2019-03,Positive,0.06745098039215686,Bogotá Distrito Capital
+2019-03,Negative without reposts,0.17040029379361,Bogotá Distrito Capital
+2019-03,Neutral without reposts,0.09768637532133675,Bogotá Distrito Capital
+2019-03,Positive without reposts,0.07418288652221815,Bogotá Distrito Capital
+2019-04,Negative,0.10415686274509804,Bogotá Distrito Capital
+2019-04,Neutral,0.24941176470588236,Bogotá Distrito Capital
+2019-04,Positive,0.08768627450980392,Bogotá Distrito Capital
+2019-04,Negative without reposts,0.144693352919574,Bogotá Distrito Capital
+2019-04,Neutral without reposts,0.09915534337128168,Bogotá Distrito Capital
+2019-04,Positive without reposts,0.08373117884686009,Bogotá Distrito Capital
+2019-05,Negative,0.18196078431372548,Bogotá Distrito Capital
+2019-05,Neutral,0.35090196078431374,Bogotá Distrito Capital
+2019-05,Positive,0.14588235294117646,Bogotá Distrito Capital
+2019-05,Negative without reposts,0.20051413881748073,Bogotá Distrito Capital
+2019-05,Neutral without reposts,0.12155710613294161,Bogotá Distrito Capital
+2019-05,Positive without reposts,0.10833639368343738,Bogotá Distrito Capital
+2019-06,Negative,0.15984313725490196,Bogotá Distrito Capital
+2019-06,Neutral,0.12737254901960784,Bogotá Distrito Capital
+2019-06,Positive,0.09992156862745098,Bogotá Distrito Capital
+2019-06,Negative without reposts,0.22144693352919573,Bogotá Distrito Capital
+2019-06,Neutral without reposts,0.12449504223283143,Bogotá Distrito Capital
+2019-06,Positive without reposts,0.1072346676459787,Bogotá Distrito Capital
+2019-07,Negative,0.10007843137254901,Bogotá Distrito Capital
+2019-07,Neutral,0.1383529411764706,Bogotá Distrito Capital
+2019-07,Positive,0.08407843137254901,Bogotá Distrito Capital
+2019-07,Negative without reposts,0.16636063165626147,Bogotá Distrito Capital
+2019-07,Neutral without reposts,0.10282776349614396,Bogotá Distrito Capital
+2019-07,Positive without reposts,0.10135879544619905,Bogotá Distrito Capital
+2019-08,Negative,0.14494117647058824,Bogotá Distrito Capital
+2019-08,Neutral,0.14086274509803923,Bogotá Distrito Capital
+2019-08,Positive,0.1011764705882353,Bogotá Distrito Capital
+2019-08,Negative without reposts,0.2185089974293059,Bogotá Distrito Capital
+2019-08,Neutral without reposts,0.1369812706573632,Bogotá Distrito Capital
+2019-08,Positive without reposts,0.09988982739625413,Bogotá Distrito Capital
+2019-09,Negative,0.1512156862745098,Bogotá Distrito Capital
+2019-09,Neutral,0.11309803921568627,Bogotá Distrito Capital
+2019-09,Positive,0.0756078431372549,Bogotá Distrito Capital
+2019-09,Negative without reposts,0.2453176643408006,Bogotá Distrito Capital
+2019-09,Neutral without reposts,0.12045538009548293,Bogotá Distrito Capital
+2019-09,Positive without reposts,0.0892398090341535,Bogotá Distrito Capital
+2019-10,Negative,0.09913725490196078,Bogotá Distrito Capital
+2019-10,Neutral,0.09145098039215686,Bogotá Distrito Capital
+2019-10,Positive,0.062431372549019606,Bogotá Distrito Capital
+2019-10,Negative without reposts,0.1795813441057657,Bogotá Distrito Capital
+2019-10,Neutral without reposts,0.09364671318398825,Bogotá Distrito Capital
+2019-10,Positive without reposts,0.09621740727139184,Bogotá Distrito Capital
+2019-11,Negative,1.0,Bogotá Distrito Capital
+2019-11,Neutral,0.1672156862745098,Bogotá Distrito Capital
+2019-11,Positive,0.13772549019607844,Bogotá Distrito Capital
+2019-11,Negative without reposts,1.0,Bogotá Distrito Capital
+2019-11,Neutral without reposts,0.19206757253029746,Bogotá Distrito Capital
+2019-11,Positive without reposts,0.19059860448035254,Bogotá Distrito Capital
+2019-12,Negative,0.12643137254901962,Bogotá Distrito Capital
+2019-12,Neutral,0.0784313725490196,Bogotá Distrito Capital
+2019-12,Positive,0.07780392156862745,Bogotá Distrito Capital
+2019-12,Negative without reposts,0.2016158648549394,Bogotá Distrito Capital
+2019-12,Neutral without reposts,0.09401395519647447,Bogotá Distrito Capital
+2019-12,Positive without reposts,0.08777084098420859,Bogotá Distrito Capital
+2020-01,Negative,0.14650980392156862,Bogotá Distrito Capital
+2020-01,Neutral,0.1032156862745098,Bogotá Distrito Capital
+2020-01,Positive,0.059294117647058824,Bogotá Distrito Capital
+2020-01,Negative without reposts,0.2442159383033419,Bogotá Distrito Capital
+2020-01,Neutral without reposts,0.11457950789570327,Bogotá Distrito Capital
+2020-01,Positive without reposts,0.08593463092177746,Bogotá Distrito Capital
+2020-02,Negative,0.14619607843137256,Bogotá Distrito Capital
+2020-02,Neutral,0.08658823529411765,Bogotá Distrito Capital
+2020-02,Positive,0.07011764705882353,Bogotá Distrito Capital
+2020-02,Negative without reposts,0.23319867792875504,Bogotá Distrito Capital
+2020-02,Neutral without reposts,0.10356224752111641,Bogotá Distrito Capital
+2020-02,Positive without reposts,0.08409842085934631,Bogotá Distrito Capital
+2020-03,Negative,0.28109803921568627,Bogotá Distrito Capital
+2020-03,Neutral,0.09129411764705882,Bogotá Distrito Capital
+2020-03,Positive,0.05176470588235294,Bogotá Distrito Capital
+2020-03,Negative without reposts,0.3966213734851267,Bogotá Distrito Capital
+2020-03,Neutral without reposts,0.08777084098420859,Bogotá Distrito Capital
+2020-03,Positive without reposts,0.07712082262210797,Bogotá Distrito Capital
+2020-04,Negative,0.496156862745098,Bogotá Distrito Capital
+2020-04,Neutral,0.3254901960784314,Bogotá Distrito Capital
+2020-04,Positive,0.23090196078431371,Bogotá Distrito Capital
+2020-04,Negative without reposts,0.5673889092912229,Bogotá Distrito Capital
+2020-04,Neutral without reposts,0.21667278736687476,Bogotá Distrito Capital
+2020-04,Positive without reposts,0.19831068674256336,Bogotá Distrito Capital
+2018-01,Negative,0.007352941176470588,Cundinamarca
+2018-01,Neutral,0.003676470588235294,Cundinamarca
+2018-01,Positive,0.007352941176470588,Cundinamarca
+2018-01,Negative without reposts,0.01020408163265306,Cundinamarca
+2018-01,Neutral without reposts,0.0,Cundinamarca
+2018-01,Positive without reposts,0.01020408163265306,Cundinamarca
+2018-02,Negative,0.022058823529411766,Cundinamarca
+2018-02,Neutral,0.01838235294117647,Cundinamarca
+2018-02,Positive,0.003676470588235294,Cundinamarca
+2018-02,Negative without reposts,0.0,Cundinamarca
+2018-02,Neutral without reposts,0.030612244897959183,Cundinamarca
+2018-02,Positive without reposts,0.0,Cundinamarca
+2018-03,Negative,0.11764705882352941,Cundinamarca
+2018-03,Neutral,0.058823529411764705,Cundinamarca
+2018-03,Positive,0.03676470588235294,Cundinamarca
+2018-03,Negative without reposts,0.20408163265306123,Cundinamarca
+2018-03,Neutral without reposts,0.10204081632653061,Cundinamarca
+2018-03,Positive without reposts,0.09183673469387756,Cundinamarca
+2018-04,Negative,0.08088235294117647,Cundinamarca
+2018-04,Neutral,0.10661764705882353,Cundinamarca
+2018-04,Positive,0.029411764705882353,Cundinamarca
+2018-04,Negative without reposts,0.14285714285714285,Cundinamarca
+2018-04,Neutral without reposts,0.12244897959183673,Cundinamarca
+2018-04,Positive without reposts,0.02040816326530612,Cundinamarca
+2018-05,Negative,0.011029411764705883,Cundinamarca
+2018-05,Neutral,0.025735294117647058,Cundinamarca
+2018-05,Positive,0.007352941176470588,Cundinamarca
+2018-05,Negative without reposts,0.02040816326530612,Cundinamarca
+2018-05,Neutral without reposts,0.0,Cundinamarca
+2018-05,Positive without reposts,0.01020408163265306,Cundinamarca
+2018-06,Negative,0.011029411764705883,Cundinamarca
+2018-06,Neutral,0.025735294117647058,Cundinamarca
+2018-06,Positive,0.007352941176470588,Cundinamarca
+2018-06,Negative without reposts,0.02040816326530612,Cundinamarca
+2018-06,Neutral without reposts,0.05102040816326531,Cundinamarca
+2018-06,Positive without reposts,0.02040816326530612,Cundinamarca
+2018-07,Negative,0.014705882352941176,Cundinamarca
+2018-07,Neutral,0.003676470588235294,Cundinamarca
+2018-07,Positive,0.011029411764705883,Cundinamarca
+2018-07,Negative without reposts,0.030612244897959183,Cundinamarca
+2018-07,Neutral without reposts,0.0,Cundinamarca
+2018-07,Positive without reposts,0.0,Cundinamarca
+2018-08,Negative,0.029411764705882353,Cundinamarca
+2018-08,Neutral,0.03308823529411765,Cundinamarca
+2018-08,Positive,0.014705882352941176,Cundinamarca
+2018-08,Negative without reposts,0.030612244897959183,Cundinamarca
+2018-08,Neutral without reposts,0.030612244897959183,Cundinamarca
+2018-08,Positive without reposts,0.0,Cundinamarca
+2018-09,Negative,0.11029411764705882,Cundinamarca
+2018-09,Neutral,0.1801470588235294,Cundinamarca
+2018-09,Positive,0.07720588235294118,Cundinamarca
+2018-09,Negative without reposts,0.1836734693877551,Cundinamarca
+2018-09,Neutral without reposts,0.061224489795918366,Cundinamarca
+2018-09,Positive without reposts,0.15306122448979592,Cundinamarca
+2018-10,Negative,0.10294117647058823,Cundinamarca
+2018-10,Neutral,0.08823529411764706,Cundinamarca
+2018-10,Positive,0.07352941176470588,Cundinamarca
+2018-10,Negative without reposts,0.21428571428571427,Cundinamarca
+2018-10,Neutral without reposts,0.061224489795918366,Cundinamarca
+2018-10,Positive without reposts,0.061224489795918366,Cundinamarca
+2018-11,Negative,0.11764705882352941,Cundinamarca
+2018-11,Neutral,0.11764705882352941,Cundinamarca
+2018-11,Positive,0.04044117647058824,Cundinamarca
+2018-11,Negative without reposts,0.17346938775510204,Cundinamarca
+2018-11,Neutral without reposts,0.061224489795918366,Cundinamarca
+2018-11,Positive without reposts,0.04081632653061224,Cundinamarca
+2018-12,Negative,0.15441176470588236,Cundinamarca
+2018-12,Neutral,0.11764705882352941,Cundinamarca
+2018-12,Positive,0.058823529411764705,Cundinamarca
+2018-12,Negative without reposts,0.16326530612244897,Cundinamarca
+2018-12,Neutral without reposts,0.05102040816326531,Cundinamarca
+2018-12,Positive without reposts,0.061224489795918366,Cundinamarca
+2019-01,Negative,0.1323529411764706,Cundinamarca
+2019-01,Neutral,0.04044117647058824,Cundinamarca
+2019-01,Positive,0.04411764705882353,Cundinamarca
+2019-01,Negative without reposts,0.22448979591836735,Cundinamarca
+2019-01,Neutral without reposts,0.05102040816326531,Cundinamarca
+2019-01,Positive without reposts,0.061224489795918366,Cundinamarca
+2019-02,Negative,0.1801470588235294,Cundinamarca
+2019-02,Neutral,0.15441176470588236,Cundinamarca
+2019-02,Positive,0.09191176470588236,Cundinamarca
+2019-02,Negative without reposts,0.22448979591836735,Cundinamarca
+2019-02,Neutral without reposts,0.08163265306122448,Cundinamarca
+2019-02,Positive without reposts,0.10204081632653061,Cundinamarca
+2019-03,Negative,0.15441176470588236,Cundinamarca
+2019-03,Neutral,0.07720588235294118,Cundinamarca
+2019-03,Positive,0.022058823529411766,Cundinamarca
+2019-03,Negative without reposts,0.17346938775510204,Cundinamarca
+2019-03,Neutral without reposts,0.061224489795918366,Cundinamarca
+2019-03,Positive without reposts,0.02040816326530612,Cundinamarca
+2019-04,Negative,0.1323529411764706,Cundinamarca
+2019-04,Neutral,0.22794117647058823,Cundinamarca
+2019-04,Positive,0.05514705882352941,Cundinamarca
+2019-04,Negative without reposts,0.24489795918367346,Cundinamarca
+2019-04,Neutral without reposts,0.061224489795918366,Cundinamarca
+2019-04,Positive without reposts,0.08163265306122448,Cundinamarca
+2019-05,Negative,0.15808823529411764,Cundinamarca
+2019-05,Neutral,0.3088235294117647,Cundinamarca
+2019-05,Positive,0.11764705882352941,Cundinamarca
+2019-05,Negative without reposts,0.1836734693877551,Cundinamarca
+2019-05,Neutral without reposts,0.12244897959183673,Cundinamarca
+2019-05,Positive without reposts,0.11224489795918367,Cundinamarca
+2019-06,Negative,0.1323529411764706,Cundinamarca
+2019-06,Neutral,0.0661764705882353,Cundinamarca
+2019-06,Positive,0.06985294117647059,Cundinamarca
+2019-06,Negative without reposts,0.20408163265306123,Cundinamarca
+2019-06,Neutral without reposts,0.10204081632653061,Cundinamarca
+2019-06,Positive without reposts,0.12244897959183673,Cundinamarca
+2019-07,Negative,0.10294117647058823,Cundinamarca
+2019-07,Neutral,0.0661764705882353,Cundinamarca
+2019-07,Positive,0.04779411764705882,Cundinamarca
+2019-07,Negative without reposts,0.21428571428571427,Cundinamarca
+2019-07,Neutral without reposts,0.08163265306122448,Cundinamarca
+2019-07,Positive without reposts,0.09183673469387756,Cundinamarca
+2019-08,Negative,0.1323529411764706,Cundinamarca
+2019-08,Neutral,0.10661764705882353,Cundinamarca
+2019-08,Positive,0.04044117647058824,Cundinamarca
+2019-08,Negative without reposts,0.20408163265306123,Cundinamarca
+2019-08,Neutral without reposts,0.11224489795918367,Cundinamarca
+2019-08,Positive without reposts,0.05102040816326531,Cundinamarca
+2019-09,Negative,0.20588235294117646,Cundinamarca
+2019-09,Neutral,0.05514705882352941,Cundinamarca
+2019-09,Positive,0.029411764705882353,Cundinamarca
+2019-09,Negative without reposts,0.45918367346938777,Cundinamarca
+2019-09,Neutral without reposts,0.04081632653061224,Cundinamarca
+2019-09,Positive without reposts,0.05102040816326531,Cundinamarca
+2019-10,Negative,0.09926470588235294,Cundinamarca
+2019-10,Neutral,0.058823529411764705,Cundinamarca
+2019-10,Positive,0.029411764705882353,Cundinamarca
+2019-10,Negative without reposts,0.1836734693877551,Cundinamarca
+2019-10,Neutral without reposts,0.07142857142857142,Cundinamarca
+2019-10,Positive without reposts,0.02040816326530612,Cundinamarca
+2019-11,Negative,1.0,Cundinamarca
+2019-11,Neutral,0.15441176470588236,Cundinamarca
+2019-11,Positive,0.125,Cundinamarca
+2019-11,Negative without reposts,1.0,Cundinamarca
+2019-11,Neutral without reposts,0.21428571428571427,Cundinamarca
+2019-11,Positive without reposts,0.16326530612244897,Cundinamarca
+2019-12,Negative,0.14705882352941177,Cundinamarca
+2019-12,Neutral,0.04779411764705882,Cundinamarca
+2019-12,Positive,0.04411764705882353,Cundinamarca
+2019-12,Negative without reposts,0.3163265306122449,Cundinamarca
+2019-12,Neutral without reposts,0.08163265306122448,Cundinamarca
+2019-12,Positive without reposts,0.061224489795918366,Cundinamarca
+2020-01,Negative,0.13970588235294118,Cundinamarca
+2020-01,Neutral,0.05514705882352941,Cundinamarca
+2020-01,Positive,0.04411764705882353,Cundinamarca
+2020-01,Negative without reposts,0.2755102040816326,Cundinamarca
+2020-01,Neutral without reposts,0.08163265306122448,Cundinamarca
+2020-01,Positive without reposts,0.07142857142857142,Cundinamarca
+2020-02,Negative,0.125,Cundinamarca
+2020-02,Neutral,0.10294117647058823,Cundinamarca
+2020-02,Positive,0.022058823529411766,Cundinamarca
+2020-02,Negative without reposts,0.1836734693877551,Cundinamarca
+2020-02,Neutral without reposts,0.1836734693877551,Cundinamarca
+2020-02,Positive without reposts,0.04081632653061224,Cundinamarca
+2020-03,Negative,0.27941176470588236,Cundinamarca
+2020-03,Neutral,0.10294117647058823,Cundinamarca
+2020-03,Positive,0.04044117647058824,Cundinamarca
+2020-03,Negative without reposts,0.40816326530612246,Cundinamarca
+2020-03,Neutral without reposts,0.12244897959183673,Cundinamarca
+2020-03,Positive without reposts,0.09183673469387756,Cundinamarca
+2020-04,Negative,0.4742647058823529,Cundinamarca
+2020-04,Neutral,0.26838235294117646,Cundinamarca
+2020-04,Positive,0.20220588235294118,Cundinamarca
+2020-04,Negative without reposts,0.6020408163265306,Cundinamarca
+2020-04,Neutral without reposts,0.23469387755102042,Cundinamarca
+2020-04,Positive without reposts,0.20408163265306123,Cundinamarca
+2018-01,Negative,0.47692307692307695,Santander
+2018-01,Neutral,0.36538461538461536,Santander
+2018-01,Positive,0.1346153846153846,Santander
+2018-01,Negative without reposts,0.5882352941176471,Santander
+2018-01,Neutral without reposts,0.22875816993464052,Santander
+2018-01,Positive without reposts,0.1437908496732026,Santander
+2018-02,Negative,0.4653846153846154,Santander
+2018-02,Neutral,0.31153846153846154,Santander
+2018-02,Positive,0.12692307692307692,Santander
+2018-02,Negative without reposts,0.477124183006536,Santander
+2018-02,Neutral without reposts,0.24183006535947713,Santander
+2018-02,Positive without reposts,0.12418300653594772,Santander
+2018-03,Negative,0.3153846153846154,Santander
+2018-03,Neutral,0.14615384615384616,Santander
+2018-03,Positive,0.08076923076923077,Santander
+2018-03,Negative without reposts,0.42483660130718953,Santander
+2018-03,Neutral without reposts,0.19607843137254902,Santander
+2018-03,Positive without reposts,0.13071895424836602,Santander
+2018-04,Negative,0.26153846153846155,Santander
+2018-04,Neutral,0.2846153846153846,Santander
+2018-04,Positive,0.07692307692307693,Santander
+2018-04,Negative without reposts,0.3006535947712418,Santander
+2018-04,Neutral without reposts,0.19607843137254902,Santander
+2018-04,Positive without reposts,0.0784313725490196,Santander
+2018-05,Negative,0.2230769230769231,Santander
+2018-05,Neutral,0.18076923076923077,Santander
+2018-05,Positive,0.11153846153846154,Santander
+2018-05,Negative without reposts,0.2875816993464052,Santander
+2018-05,Neutral without reposts,0.17647058823529413,Santander
+2018-05,Positive without reposts,0.08496732026143791,Santander
+2018-06,Negative,0.21923076923076923,Santander
+2018-06,Neutral,0.10384615384615385,Santander
+2018-06,Positive,0.046153846153846156,Santander
+2018-06,Negative without reposts,0.30718954248366015,Santander
+2018-06,Neutral without reposts,0.11764705882352941,Santander
+2018-06,Positive without reposts,0.05228758169934641,Santander
+2018-07,Negative,0.15384615384615385,Santander
+2018-07,Neutral,0.1,Santander
+2018-07,Positive,0.1,Santander
+2018-07,Negative without reposts,0.16993464052287582,Santander
+2018-07,Neutral without reposts,0.0718954248366013,Santander
+2018-07,Positive without reposts,0.0718954248366013,Santander
+2018-08,Negative,0.36538461538461536,Santander
+2018-08,Neutral,0.45,Santander
+2018-08,Positive,0.17307692307692307,Santander
+2018-08,Negative without reposts,0.39215686274509803,Santander
+2018-08,Neutral without reposts,0.4117647058823529,Santander
+2018-08,Positive without reposts,0.16993464052287582,Santander
+2018-09,Negative,0.23461538461538461,Santander
+2018-09,Neutral,0.5423076923076923,Santander
+2018-09,Positive,0.2153846153846154,Santander
+2018-09,Negative without reposts,0.29411764705882354,Santander
+2018-09,Neutral without reposts,0.30718954248366015,Santander
+2018-09,Positive without reposts,0.20261437908496732,Santander
+2018-10,Negative,0.28846153846153844,Santander
+2018-10,Neutral,0.3730769230769231,Santander
+2018-10,Positive,0.1576923076923077,Santander
+2018-10,Negative without reposts,0.3464052287581699,Santander
+2018-10,Neutral without reposts,0.2679738562091503,Santander
+2018-10,Positive without reposts,0.12418300653594772,Santander
+2018-11,Negative,0.3038461538461538,Santander
+2018-11,Neutral,0.4346153846153846,Santander
+2018-11,Positive,0.1576923076923077,Santander
+2018-11,Negative without reposts,0.38562091503267976,Santander
+2018-11,Neutral without reposts,0.24836601307189543,Santander
+2018-11,Positive without reposts,0.1111111111111111,Santander
+2018-12,Negative,0.4076923076923077,Santander
+2018-12,Neutral,0.2153846153846154,Santander
+2018-12,Positive,0.16923076923076924,Santander
+2018-12,Negative without reposts,0.49019607843137253,Santander
+2018-12,Neutral without reposts,0.1503267973856209,Santander
+2018-12,Positive without reposts,0.1568627450980392,Santander
+2019-01,Negative,0.3384615384615385,Santander
+2019-01,Neutral,0.17307692307692307,Santander
+2019-01,Positive,0.13846153846153847,Santander
+2019-01,Negative without reposts,0.42483660130718953,Santander
+2019-01,Neutral without reposts,0.1568627450980392,Santander
+2019-01,Positive without reposts,0.1111111111111111,Santander
+2019-02,Negative,0.75,Santander
+2019-02,Neutral,0.5807692307692308,Santander
+2019-02,Positive,0.35384615384615387,Santander
+2019-02,Negative without reposts,0.8431372549019608,Santander
+2019-02,Neutral without reposts,0.35294117647058826,Santander
+2019-02,Positive without reposts,0.2222222222222222,Santander
+2019-03,Negative,0.45384615384615384,Santander
+2019-03,Neutral,0.22692307692307692,Santander
+2019-03,Positive,0.11538461538461539,Santander
+2019-03,Negative without reposts,0.49019607843137253,Santander
+2019-03,Neutral without reposts,0.19607843137254902,Santander
+2019-03,Positive without reposts,0.1568627450980392,Santander
+2019-04,Negative,0.26153846153846155,Santander
+2019-04,Neutral,0.5423076923076923,Santander
+2019-04,Positive,0.25384615384615383,Santander
+2019-04,Negative without reposts,0.35294117647058826,Santander
+2019-04,Neutral without reposts,0.1503267973856209,Santander
+2019-04,Positive without reposts,0.16993464052287582,Santander
+2019-05,Negative,0.4,Santander
+2019-05,Neutral,0.8576923076923076,Santander
+2019-05,Positive,0.2230769230769231,Santander
+2019-05,Negative without reposts,0.4117647058823529,Santander
+2019-05,Neutral without reposts,0.41830065359477125,Santander
+2019-05,Positive without reposts,0.20261437908496732,Santander
+2019-06,Negative,0.3576923076923077,Santander
+2019-06,Neutral,0.27307692307692305,Santander
+2019-06,Positive,0.12692307692307692,Santander
+2019-06,Negative without reposts,0.4117647058823529,Santander
+2019-06,Neutral without reposts,0.17647058823529413,Santander
+2019-06,Positive without reposts,0.1111111111111111,Santander
+2019-07,Negative,0.3269230769230769,Santander
+2019-07,Neutral,0.18846153846153846,Santander
+2019-07,Positive,0.1346153846153846,Santander
+2019-07,Negative without reposts,0.48366013071895425,Santander
+2019-07,Neutral without reposts,0.16993464052287582,Santander
+2019-07,Positive without reposts,0.11764705882352941,Santander
+2019-08,Negative,0.3576923076923077,Santander
+2019-08,Neutral,0.38461538461538464,Santander
+2019-08,Positive,0.17692307692307693,Santander
+2019-08,Negative without reposts,0.46405228758169936,Santander
+2019-08,Neutral without reposts,0.30718954248366015,Santander
+2019-08,Positive without reposts,0.16339869281045752,Santander
+2019-09,Negative,0.3230769230769231,Santander
+2019-09,Neutral,0.27307692307692305,Santander
+2019-09,Positive,0.15384615384615385,Santander
+2019-09,Negative without reposts,0.39215686274509803,Santander
+2019-09,Neutral without reposts,0.21568627450980393,Santander
+2019-09,Positive without reposts,0.13725490196078433,Santander
+2019-10,Negative,0.2653846153846154,Santander
+2019-10,Neutral,0.16923076923076924,Santander
+2019-10,Positive,0.06538461538461539,Santander
+2019-10,Negative without reposts,0.38562091503267976,Santander
+2019-10,Neutral without reposts,0.16993464052287582,Santander
+2019-10,Positive without reposts,0.0915032679738562,Santander
+2019-11,Negative,1.0,Santander
+2019-11,Neutral,0.25769230769230766,Santander
+2019-11,Positive,0.16923076923076924,Santander
+2019-11,Negative without reposts,0.6666666666666666,Santander
+2019-11,Neutral without reposts,0.20915032679738563,Santander
+2019-11,Positive without reposts,0.16339869281045752,Santander
+2019-12,Negative,0.27307692307692305,Santander
+2019-12,Neutral,0.11923076923076924,Santander
+2019-12,Positive,0.07307692307692308,Santander
+2019-12,Negative without reposts,0.38562091503267976,Santander
+2019-12,Neutral without reposts,0.10457516339869281,Santander
+2019-12,Positive without reposts,0.09803921568627451,Santander
+2020-01,Negative,0.3346153846153846,Santander
+2020-01,Neutral,0.2692307692307692,Santander
+2020-01,Positive,0.11923076923076924,Santander
+2020-01,Negative without reposts,0.48366013071895425,Santander
+2020-01,Neutral without reposts,0.20915032679738563,Santander
+2020-01,Positive without reposts,0.12418300653594772,Santander
+2020-02,Negative,0.3923076923076923,Santander
+2020-02,Neutral,0.20384615384615384,Santander
+2020-02,Positive,0.16538461538461538,Santander
+2020-02,Negative without reposts,0.5228758169934641,Santander
+2020-02,Neutral without reposts,0.24836601307189543,Santander
+2020-02,Positive without reposts,0.13071895424836602,Santander
+2020-03,Negative,0.7,Santander
+2020-03,Neutral,0.19230769230769232,Santander
+2020-03,Positive,0.1076923076923077,Santander
+2020-03,Negative without reposts,0.8366013071895425,Santander
+2020-03,Neutral without reposts,0.21568627450980393,Santander
+2020-03,Positive without reposts,0.12418300653594772,Santander
+2020-04,Negative,0.9153846153846154,Santander
+2020-04,Neutral,0.8192307692307692,Santander
+2020-04,Positive,0.7846153846153846,Santander
+2020-04,Negative without reposts,1.0,Santander
+2020-04,Neutral without reposts,0.5751633986928104,Santander
+2020-04,Positive without reposts,0.3464052287581699,Santander
+2018-01,Negative,0.11086474501108648,Valle del Cauca
+2018-01,Neutral,0.05543237250554324,Valle del Cauca
+2018-01,Positive,0.05543237250554324,Valle del Cauca
+2018-01,Negative without reposts,0.15789473684210525,Valle del Cauca
+2018-01,Neutral without reposts,0.06315789473684211,Valle del Cauca
+2018-01,Positive without reposts,0.03684210526315789,Valle del Cauca
+2018-02,Negative,0.24833702882483372,Valle del Cauca
+2018-02,Neutral,0.23059866962305986,Valle del Cauca
+2018-02,Positive,0.07982261640798226,Valle del Cauca
+2018-02,Negative without reposts,0.2894736842105263,Valle del Cauca
+2018-02,Neutral without reposts,0.21052631578947367,Valle del Cauca
+2018-02,Positive without reposts,0.08947368421052632,Valle del Cauca
+2018-03,Negative,0.20620842572062084,Valle del Cauca
+2018-03,Neutral,0.14412416851441243,Valle del Cauca
+2018-03,Positive,0.06873614190687362,Valle del Cauca
+2018-03,Negative without reposts,0.3263157894736842,Valle del Cauca
+2018-03,Neutral without reposts,0.19473684210526315,Valle del Cauca
+2018-03,Positive without reposts,0.14736842105263157,Valle del Cauca
+2018-04,Negative,0.18181818181818182,Valle del Cauca
+2018-04,Neutral,0.17073170731707318,Valle del Cauca
+2018-04,Positive,0.07982261640798226,Valle del Cauca
+2018-04,Negative without reposts,0.26842105263157895,Valle del Cauca
+2018-04,Neutral without reposts,0.14210526315789473,Valle del Cauca
+2018-04,Positive without reposts,0.09473684210526316,Valle del Cauca
+2018-05,Negative,0.15964523281596452,Valle del Cauca
+2018-05,Neutral,0.1197339246119734,Valle del Cauca
+2018-05,Positive,0.08869179600886919,Valle del Cauca
+2018-05,Negative without reposts,0.22105263157894736,Valle del Cauca
+2018-05,Neutral without reposts,0.1631578947368421,Valle del Cauca
+2018-05,Positive without reposts,0.06842105263157895,Valle del Cauca
+2018-06,Negative,0.14412416851441243,Valle del Cauca
+2018-06,Neutral,0.16186252771618626,Valle del Cauca
+2018-06,Positive,0.07538802660753881,Valle del Cauca
+2018-06,Negative without reposts,0.25263157894736843,Valle del Cauca
+2018-06,Neutral without reposts,0.08947368421052632,Valle del Cauca
+2018-06,Positive without reposts,0.13157894736842105,Valle del Cauca
+2018-07,Negative,0.1729490022172949,Valle del Cauca
+2018-07,Neutral,0.1951219512195122,Valle del Cauca
+2018-07,Positive,0.13082039911308205,Valle del Cauca
+2018-07,Negative without reposts,0.26842105263157895,Valle del Cauca
+2018-07,Neutral without reposts,0.2,Valle del Cauca
+2018-07,Positive without reposts,0.11052631578947368,Valle del Cauca
+2018-08,Negative,0.3968957871396896,Valle del Cauca
+2018-08,Neutral,0.30598669623059865,Valle del Cauca
+2018-08,Positive,0.2638580931263858,Valle del Cauca
+2018-08,Negative without reposts,0.5,Valle del Cauca
+2018-08,Neutral without reposts,0.33157894736842103,Valle del Cauca
+2018-08,Positive without reposts,0.2736842105263158,Valle del Cauca
+2018-09,Negative,0.35920177383592017,Valle del Cauca
+2018-09,Neutral,0.4124168514412417,Valle del Cauca
+2018-09,Positive,0.188470066518847,Valle del Cauca
+2018-09,Negative without reposts,0.5157894736842106,Valle del Cauca
+2018-09,Neutral without reposts,0.3,Valle del Cauca
+2018-09,Positive without reposts,0.2789473684210526,Valle del Cauca
+2018-10,Negative,0.5831485587583148,Valle del Cauca
+2018-10,Neutral,0.401330376940133,Valle del Cauca
+2018-10,Positive,0.2660753880266075,Valle del Cauca
+2018-10,Negative without reposts,0.8052631578947368,Valle del Cauca
+2018-10,Neutral without reposts,0.29473684210526313,Valle del Cauca
+2018-10,Positive without reposts,0.2789473684210526,Valle del Cauca
+2018-11,Negative,0.3370288248337029,Valle del Cauca
+2018-11,Neutral,0.4279379157427938,Valle del Cauca
+2018-11,Positive,0.13303769401330376,Valle del Cauca
+2018-11,Negative without reposts,0.37894736842105264,Valle del Cauca
+2018-11,Neutral without reposts,0.25263157894736843,Valle del Cauca
+2018-11,Positive without reposts,0.1,Valle del Cauca
+2018-12,Negative,0.37028824833702884,Valle del Cauca
+2018-12,Neutral,0.25055432372505543,Valle del Cauca
+2018-12,Positive,0.17738359201773837,Valle del Cauca
+2018-12,Negative without reposts,0.3684210526315789,Valle del Cauca
+2018-12,Neutral without reposts,0.2,Valle del Cauca
+2018-12,Positive without reposts,0.19473684210526315,Valle del Cauca
+2019-01,Negative,0.35698447893569846,Valle del Cauca
+2019-01,Neutral,0.1973392461197339,Valle del Cauca
+2019-01,Positive,0.2616407982261641,Valle del Cauca
+2019-01,Negative without reposts,0.5526315789473685,Valle del Cauca
+2019-01,Neutral without reposts,0.2631578947368421,Valle del Cauca
+2019-01,Positive without reposts,0.23157894736842105,Valle del Cauca
+2019-02,Negative,0.6208425720620843,Valle del Cauca
+2019-02,Neutral,0.6208425720620843,Valle del Cauca
+2019-02,Positive,0.4700665188470067,Valle del Cauca
+2019-02,Negative without reposts,0.7263157894736842,Valle del Cauca
+2019-02,Neutral without reposts,0.38421052631578945,Valle del Cauca
+2019-02,Positive without reposts,0.3894736842105263,Valle del Cauca
+2019-03,Negative,0.5609756097560976,Valle del Cauca
+2019-03,Neutral,0.35698447893569846,Valle del Cauca
+2019-03,Positive,0.12195121951219512,Valle del Cauca
+2019-03,Negative without reposts,0.45263157894736844,Valle del Cauca
+2019-03,Neutral without reposts,0.21578947368421053,Valle del Cauca
+2019-03,Positive without reposts,0.18421052631578946,Valle del Cauca
+2019-04,Negative,0.31929046563192903,Valle del Cauca
+2019-04,Neutral,0.5898004434589801,Valle del Cauca
+2019-04,Positive,0.18625277161862527,Valle del Cauca
+2019-04,Negative without reposts,0.5157894736842106,Valle del Cauca
+2019-04,Neutral without reposts,0.3,Valle del Cauca
+2019-04,Positive without reposts,0.12105263157894737,Valle del Cauca
+2019-05,Negative,0.5631929046563193,Valle del Cauca
+2019-05,Neutral,0.8492239467849224,Valle del Cauca
+2019-05,Positive,0.22394678492239467,Valle del Cauca
+2019-05,Negative without reposts,0.6421052631578947,Valle del Cauca
+2019-05,Neutral without reposts,0.3105263157894737,Valle del Cauca
+2019-05,Positive without reposts,0.18421052631578946,Valle del Cauca
+2019-06,Negative,0.43902439024390244,Valle del Cauca
+2019-06,Neutral,0.24611973392461198,Valle del Cauca
+2019-06,Positive,0.17073170731707318,Valle del Cauca
+2019-06,Negative without reposts,0.5947368421052631,Valle del Cauca
+2019-06,Neutral without reposts,0.2894736842105263,Valle del Cauca
+2019-06,Positive without reposts,0.23684210526315788,Valle del Cauca
+2019-07,Negative,0.19955654101995565,Valle del Cauca
+2019-07,Neutral,0.15077605321507762,Valle del Cauca
+2019-07,Positive,0.11751662971175167,Valle del Cauca
+2019-07,Negative without reposts,0.32105263157894737,Valle del Cauca
+2019-07,Neutral without reposts,0.07894736842105263,Valle del Cauca
+2019-07,Positive without reposts,0.10526315789473684,Valle del Cauca
+2019-08,Negative,0.2860310421286031,Valle del Cauca
+2019-08,Neutral,0.24611973392461198,Valle del Cauca
+2019-08,Positive,0.1729490022172949,Valle del Cauca
+2019-08,Negative without reposts,0.4421052631578947,Valle del Cauca
+2019-08,Neutral without reposts,0.18421052631578946,Valle del Cauca
+2019-08,Positive without reposts,0.12631578947368421,Valle del Cauca
+2019-09,Negative,0.28824833702882485,Valle del Cauca
+2019-09,Neutral,0.17073170731707318,Valle del Cauca
+2019-09,Positive,0.09977827050997783,Valle del Cauca
+2019-09,Negative without reposts,0.4631578947368421,Valle del Cauca
+2019-09,Neutral without reposts,0.15789473684210525,Valle del Cauca
+2019-09,Positive without reposts,0.12105263157894737,Valle del Cauca
+2019-10,Negative,0.2261640798226164,Valle del Cauca
+2019-10,Neutral,0.164079822616408,Valle del Cauca
+2019-10,Positive,0.07317073170731707,Valle del Cauca
+2019-10,Negative without reposts,0.35789473684210527,Valle del Cauca
+2019-10,Neutral without reposts,0.23157894736842105,Valle del Cauca
+2019-10,Positive without reposts,0.07894736842105263,Valle del Cauca
+2019-11,Negative,1.0,Valle del Cauca
+2019-11,Neutral,0.22172949002217296,Valle del Cauca
+2019-11,Positive,0.18181818181818182,Valle del Cauca
+2019-11,Negative without reposts,1.0,Valle del Cauca
+2019-11,Neutral without reposts,0.26842105263157895,Valle del Cauca
+2019-11,Positive without reposts,0.19473684210526315,Valle del Cauca
+2019-12,Negative,0.2682926829268293,Valle del Cauca
+2019-12,Neutral,0.13968957871396895,Valle del Cauca
+2019-12,Positive,0.11751662971175167,Valle del Cauca
+2019-12,Negative without reposts,0.43157894736842106,Valle del Cauca
+2019-12,Neutral without reposts,0.2,Valle del Cauca
+2019-12,Positive without reposts,0.14210526315789473,Valle del Cauca
+2020-01,Negative,0.3148558758314856,Valle del Cauca
+2020-01,Neutral,0.3237250554323725,Valle del Cauca
+2020-01,Positive,0.12195121951219512,Valle del Cauca
+2020-01,Negative without reposts,0.5,Valle del Cauca
+2020-01,Neutral without reposts,0.29473684210526313,Valle del Cauca
+2020-01,Positive without reposts,0.14210526315789473,Valle del Cauca
+2020-02,Negative,0.34811529933481156,Valle del Cauca
+2020-02,Neutral,0.20842572062084258,Valle del Cauca
+2020-02,Positive,0.12638580931263857,Valle del Cauca
+2020-02,Negative without reposts,0.5052631578947369,Valle del Cauca
+2020-02,Neutral without reposts,0.23684210526315788,Valle del Cauca
+2020-02,Positive without reposts,0.1631578947368421,Valle del Cauca
+2020-03,Negative,0.5188470066518847,Valle del Cauca
+2020-03,Neutral,0.20842572062084258,Valle del Cauca
+2020-03,Positive,0.11086474501108648,Valle del Cauca
+2020-03,Negative without reposts,0.8157894736842105,Valle del Cauca
+2020-03,Neutral without reposts,0.2,Valle del Cauca
+2020-03,Positive without reposts,0.17894736842105263,Valle del Cauca
+2020-04,Negative,0.8824833702882483,Valle del Cauca
+2020-04,Neutral,0.9623059866962306,Valle del Cauca
+2020-04,Positive,0.6607538802660754,Valle del Cauca
+2020-04,Negative without reposts,0.9894736842105263,Valle del Cauca
+2020-04,Neutral without reposts,0.5210526315789473,Valle del Cauca
+2020-04,Positive without reposts,0.48947368421052634,Valle del Cauca

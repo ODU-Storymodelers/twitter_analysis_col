@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv('data/geolocation/geo_tweets_with_depts_and_tone.csv')
 
+export_data = pd.DataFrame()
 # Create 6 line plots (using plt) of the frequency (count) of positive, neutral and negative tweets over time for 6 departments defined by the user, in a 2x3 grid/ Including a start date and end date for the time period
 departments = ['Bogotá Distrito Capital', 'Antioquia', 'Valle del Cauca', 'Cundinamarca', 'Santander', 'Atlántico']
 proportion = False
@@ -57,6 +58,9 @@ if not proportion:
         df_with_tone_sample = df_with_tone_sample.melt(id_vars=['year', 'month'], var_name='tone', value_name='count')
         df_with_tone_sample['month'] = df_with_tone_sample['month'].astype(str)
 
+        df_with_tone_sample['department'] = department
+        export_data = pd.concat([export_data, df_with_tone_sample], ignore_index=True)
+        
         plt.subplot(2, 3, i+1)
         for tone in ['Positive', 'Neutral', 'Negative']:
             df_tone = df_with_tone_sample[df_with_tone_sample['tone'] == tone]
@@ -98,6 +102,8 @@ if not proportion:
         df_with_tone_sample = df_with_tone_sample.melt(id_vars=['year', 'month'], var_name='tone', value_name='count')
         df_with_tone_sample['month'] = df_with_tone_sample['month'].astype(str)
 
+        df_with_tone_sample['department'] = department
+        export_data = pd.concat([export_data, df_with_tone_sample], ignore_index=True)
         
         plt.subplot(2, 3, i+1)
         for tone in ['Negative without reposts', 'Neutral without reposts', 'Positive without reposts']:
@@ -108,5 +114,11 @@ if not proportion:
         plt.xticks(rotation=90)
 
 # Save the plot to svg
-plt.tight_layout()
-plt.savefig('notebooks/2_spatiotemporal/7_line_plot_6main_deps.svg')
+# plt.tight_layout()
+# plt.savefig('notebooks/2_spatiotemporal/7_line_plot_6main_deps.svg')
+
+# Save the data into one csv
+export_data = export_data.sort_values(by=['department', 'year', 'month'])
+export_data = export_data.drop(columns=['year'])
+export_data = export_data.rename(columns={'count': 'frequency'})
+export_data.to_csv('notebooks/2_spatiotemporal/7_line_plot_6main_deps_data.csv', index=False)
