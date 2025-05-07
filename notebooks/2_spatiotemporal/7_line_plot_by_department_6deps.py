@@ -117,8 +117,12 @@ if not proportion:
 # plt.tight_layout()
 # plt.savefig('notebooks/2_spatiotemporal/7_line_plot_6main_deps.svg')
 
-# Save the data into one csv
-export_data = export_data.sort_values(by=['department', 'year', 'month'])
-export_data = export_data.drop(columns=['year'])
-export_data = export_data.rename(columns={'count': 'frequency'})
-export_data.to_csv('notebooks/2_spatiotemporal/7_line_plot_6main_deps_data.csv', index=False)
+# Save the plot to tiff
+plt.tight_layout()
+plt.savefig('./docs/figures/Fig8.tiff')
+
+# # Save the data into one csv
+# export_data = export_data.sort_values(by=['department', 'year', 'month'])
+# export_data = export_data.drop(columns=['year'])
+# export_data = export_data.rename(columns={'count': 'frequency'})
+# export_data.to_csv('notebooks/2_spatiotemporal/7_line_plot_6main_deps_data.csv', index=False)
